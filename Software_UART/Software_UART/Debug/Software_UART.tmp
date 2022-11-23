@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio 7\Software_UART\Software_UART\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Atmel Studio 7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio 7\Software_UART\Software_UART\Debug\Software_UART.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Software_UART.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Software_UART.map</FILE>
+  <FILE>Software_UART.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>16</LINE></start>
+  <loop><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>22</LINE></loop>
+  <soft_read_PortB_Pin12><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>31</LINE></soft_read_PortB_Pin12>
+  <rs_1><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>33</LINE></rs_1>
+  <delay_05><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>86</LINE></delay_05>
+  <rs_2><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>37</LINE></rs_2>
+  <delay_1><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>77</LINE></delay_1>
+  <rs_3><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>48</LINE></rs_3>
+  <soft_write_PortB_Pin13><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>53</LINE></soft_write_PortB_Pin13>
+  <w_0><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>57</LINE></w_0>
+  <w_1><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>61</LINE></w_1>
+  <w_2><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>64</LINE></w_2>
+  <delay_check_1><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>79</LINE></delay_check_1>
+  <delay_check_05><FILE>D:\Atmel Studio 7\Software_UART\Software_UART\main.asm</FILE><LINE>88</LINE></delay_check_05>
+ </LABELS>
+</ASSEMBLER_INFO>
