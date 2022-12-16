@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Atmel Studio 7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\Debug\Software_I2C_ASM1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Software_I2C_ASM1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Software_I2C_ASM1.map</FILE>
+  <FILE>Software_I2C_ASM1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>29</LINE></main>
+  <uart_init><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>196</LINE></uart_init>
+  <twi_init><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>119</LINE></twi_init>
+  <loop><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>42</LINE></loop>
+  <eeprom_write><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>53</LINE></eeprom_write>
+  <eeprom_read><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>80</LINE></eeprom_read>
+  <kk><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>48</LINE></kk>
+  <twi_start><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>128</LINE></twi_start>
+  <twi_write><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>137</LINE></twi_write>
+  <twi_stop><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>147</LINE></twi_stop>
+  <delay><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>209</LINE></delay>
+  <reset_value><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>179</LINE></reset_value>
+  <twi_read><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>153</LINE></twi_read>
+  <d1><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>131</LINE></d1>
+  <d2><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>141</LINE></d2>
+  <d3><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>156</LINE></d3>
+  <twi_read_NACK><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>164</LINE></twi_read_NACK>
+  <d4><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>167</LINE></d4>
+  <uart_start><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>188</LINE></uart_start>
+  <delay_check><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>223</LINE></delay_check>
+  <delay_001><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>234</LINE></delay_001>
+  <delay_check1><FILE>D:\Atmel Studio 7\Software_I2C_ASM1\Software_I2C_ASM1\main.asm</FILE><LINE>248</LINE></delay_check1>
+ </LABELS>
+</ASSEMBLER_INFO>
