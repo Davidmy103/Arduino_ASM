@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Atmel Studio 7\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel Studio 7\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\Debug\I2C_RTC_Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>I2C_RTC_Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>I2C_RTC_Assembly.map</FILE>
+  <FILE>I2C_RTC_Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>41</LINE></start>
+  <uart_init><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>188</LINE></uart_init>
+  <twi_init><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>247</LINE></twi_init>
+  <init_RTC><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>62</LINE></init_RTC>
+  <l1><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>51</LINE></l1>
+  <read_time_RTC><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>128</LINE></read_time_RTC>
+  <read_date_RTC><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>157</LINE></read_date_RTC>
+  <uart_send><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>205</LINE></uart_send>
+  <twi_start><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>256</LINE></twi_start>
+  <twi_write><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>265</LINE></twi_write>
+  <twi_stop><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>275</LINE></twi_stop>
+  <delay><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>305</LINE></delay>
+  <write_time_RTC><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>79</LINE></write_time_RTC>
+  <write_date_RTC><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>103</LINE></write_date_RTC>
+  <twi_read><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>281</LINE></twi_read>
+  <twi_read_NACK><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>292</LINE></twi_read_NACK>
+  <uart_start><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>197</LINE></uart_start>
+  <f1><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>207</LINE></f1>
+  <f2><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>212</LINE></f2>
+  <f3><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>217</LINE></f3>
+  <f4><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>222</LINE></f4>
+  <f5><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>227</LINE></f5>
+  <f6><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>232</LINE></f6>
+  <d1><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>259</LINE></d1>
+  <d2><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>269</LINE></d2>
+  <d3><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>284</LINE></d3>
+  <d4><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>295</LINE></d4>
+  <delay_check><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>319</LINE></delay_check>
+  <delay_1><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>331</LINE></delay_1>
+  <delay_check1><FILE>D:\Atmel Studio 7\I2C_RTC_Assembly\I2C_RTC_Assembly\main.asm</FILE><LINE>345</LINE></delay_check1>
+ </LABELS>
+</ASSEMBLER_INFO>
